@@ -1,0 +1,3685 @@
+[
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "aboard",
+        "chinese": "船上；在交通工具上",
+        "partOfSpeech": "adv. 副詞 / prep. 介係詞",
+        "example": "Welcome aboard flight 123 to Tokyo."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "absolutely",
+        "chinese": "絕對地",
+        "partOfSpeech": "adv. 副詞",
+        "example": "I absolutely agree with your proposal."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "accident",
+        "chinese": "事故",
+        "partOfSpeech": "n. 名詞",
+        "example": "He was injured in a car accident."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "accomplishment",
+        "chinese": "成就",
+        "partOfSpeech": "n. 名詞",
+        "example": "Winning the award was a great accomplishment."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "account",
+        "chinese": "帳戶；認定",
+        "partOfSpeech": "n. 名詞",
+        "example": "I need to open a bank account."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "accurate",
+        "chinese": "準確",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The report provides an accurate description."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "achieve",
+        "chinese": "達到",
+        "partOfSpeech": "v. 動詞",
+        "example": "With hard work, you can achieve your goals."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "action",
+        "chinese": "行動",
+        "partOfSpeech": "n. 名詞",
+        "example": "We need to take immediate action."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "adapt",
+        "chinese": "適應",
+        "partOfSpeech": "v. 動詞",
+        "example": "It took time to adapt to the new environment."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "additional",
+        "chinese": "另外的；附加的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "There will be an additional charge for delivery."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "admission",
+        "chinese": "入場許可；承認",
+        "partOfSpeech": "n. 名詞",
+        "example": "Admission to the museum is free."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "adopt",
+        "chinese": "採用",
+        "partOfSpeech": "v. 動詞",
+        "example": "The company decided to adopt a new strategy."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "advance",
+        "chinese": "預付；前進",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "Can I get an advance on my salary?"
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "advancement",
+        "chinese": "晉升；進步",
+        "partOfSpeech": "n. 名詞",
+        "example": "There are many opportunities for career advancement."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "advertising",
+        "chinese": "廣告業",
+        "partOfSpeech": "n. 名詞",
+        "example": "She works in advertising."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "advise",
+        "chinese": "建議；忠告",
+        "partOfSpeech": "v. 動詞",
+        "example": "I advise you to book your tickets early."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "affiliate",
+        "chinese": "分公司；使隸屬",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "Our company is affiliated with a global corporation."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "affordable",
+        "chinese": "實惠的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "This car represents an affordable option."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "agent",
+        "chinese": "代理人",
+        "partOfSpeech": "n. 名詞",
+        "example": "Please contact our real estate agent."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "aggressive",
+        "chinese": "積極的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The company has an aggressive marketing campaign."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "agriculture",
+        "chinese": "農業",
+        "partOfSpeech": "n. 名詞",
+        "example": "Agriculture is the main industry here."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "aid",
+        "chinese": "援助",
+        "partOfSpeech": "n. 名詞",
+        "example": "They sent aid to the disaster zone."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "airline",
+        "chinese": "航空公司",
+        "partOfSpeech": "n. 名詞",
+        "example": "Which airline are you flying with?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "alcohol",
+        "chinese": "酒精",
+        "partOfSpeech": "n. 名詞",
+        "example": "Do you sell alcohol?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "amateur",
+        "chinese": "業餘的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The tournament is open to amateur golfers."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "ambitious",
+        "chinese": "野心勃勃的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "He has ambitious plans for the company."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "amount",
+        "chinese": "數量；金額",
+        "partOfSpeech": "n. 名詞",
+        "example": "A large amount of money was spent."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "analyze",
+        "chinese": "分析",
+        "partOfSpeech": "v. 動詞",
+        "example": "We need to analyze the sales data."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "announcement",
+        "chinese": "公告",
+        "partOfSpeech": "n. 名詞",
+        "example": "The CEO made an important announcement."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "appeal",
+        "chinese": "申訴；吸引力",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "The product has a wide appeal."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "apply",
+        "chinese": "申請；應用",
+        "partOfSpeech": "v. 動詞",
+        "example": "I decided to apply for the job."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "appropriate",
+        "chinese": "合適的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Please wear appropriate clothing."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "approval",
+        "chinese": "批准；贊同",
+        "partOfSpeech": "n. 名詞",
+        "example": "We need the manager's approval."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "area",
+        "chinese": "區域",
+        "partOfSpeech": "n. 名詞",
+        "example": "This is a restricted area."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "assemble",
+        "chinese": "組合；集合",
+        "partOfSpeech": "v. 動詞",
+        "example": "We assembled the team for a meeting."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "assembly",
+        "chinese": "裝配；集會",
+        "partOfSpeech": "n. 名詞",
+        "example": "He works on an assembly line."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "assist",
+        "chinese": "協助",
+        "partOfSpeech": "v. 動詞",
+        "example": "Can you assist me with this project?"
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "associate",
+        "chinese": "同事；相關",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "He is a business associate of mine."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "atmosphere",
+        "chinese": "氣氛",
+        "partOfSpeech": "n. 名詞",
+        "example": "The office has a friendly atmosphere."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "attempt",
+        "chinese": "嘗試",
+        "partOfSpeech": "v. 動詞",
+        "example": "He made an attempt to solve the problem."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "attend",
+        "chinese": "出席",
+        "partOfSpeech": "v. 動詞",
+        "example": "Are you going to attend the meeting?"
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "attitude",
+        "chinese": "態度",
+        "partOfSpeech": "n. 名詞",
+        "example": "She has a positive attitude towards work."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "attract",
+        "chinese": "吸引",
+        "partOfSpeech": "v. 動詞",
+        "example": "The sale attracted many customers."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "authority",
+        "chinese": "當局；權威",
+        "partOfSpeech": "n. 名詞",
+        "example": "The local authority approved the plan."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "automatic",
+        "chinese": "自動的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The doors are automatic."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "available",
+        "chinese": "可得的；有空的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Is this item available in red?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "average",
+        "chinese": "平均",
+        "partOfSpeech": "n. 名詞 / adj. 形容詞",
+        "example": "The average cost is $50."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "aware",
+        "chinese": "察覺的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Are you aware of the policy changes?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "bacon",
+        "chinese": "培根",
+        "partOfSpeech": "n. 名詞",
+        "example": "I like bacon and eggs."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "barrier",
+        "chinese": "障礙",
+        "partOfSpeech": "n. 名詞",
+        "example": "Language can be a barrier."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "basis",
+        "chinese": "基礎",
+        "partOfSpeech": "n. 名詞",
+        "example": "We meet on a weekly basis."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "billion",
+        "chinese": "十億",
+        "partOfSpeech": "n. 名詞",
+        "example": "The deal is worth billions."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "border",
+        "chinese": "邊界",
+        "partOfSpeech": "n. 名詞",
+        "example": "They crossed the border."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "branch",
+        "chinese": "分店；分支",
+        "partOfSpeech": "n. 名詞",
+        "example": "Our bank has a branch in Tokyo."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "budget",
+        "chinese": "預算",
+        "partOfSpeech": "n. 名詞",
+        "example": "We are working on a tight budget."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "cancellation",
+        "chinese": "取消",
+        "partOfSpeech": "n. 名詞",
+        "example": "Flight cancellations are common in winter."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "candidate",
+        "chinese": "候選人",
+        "partOfSpeech": "n. 名詞",
+        "example": "She is a strong candidate for the manager position."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "capable",
+        "chinese": "有能力的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "He is capable of handling the pressure."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "career",
+        "chinese": "事業",
+        "partOfSpeech": "n. 名詞",
+        "example": "She is focused on her career."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "case",
+        "chinese": "情況；案子",
+        "partOfSpeech": "n. 名詞",
+        "example": "In case of fire, use the stairs."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "cause",
+        "chinese": "原因；導致",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "What caused the delay?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "celebration",
+        "chinese": "慶典",
+        "partOfSpeech": "n. 名詞",
+        "example": "The company held a celebration for its anniversary."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "challenge",
+        "chinese": "挑戰",
+        "partOfSpeech": "n. 名詞",
+        "example": "This project presents a new challenge."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "characteristic",
+        "chinese": "特徵",
+        "partOfSpeech": "n. 名詞",
+        "example": "Reliability is his main characteristic."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "claim",
+        "chinese": "要求；索賠",
+        "partOfSpeech": "v. 動詞 / n. 名詞",
+        "example": "He submitted a claim for travel expenses."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "client",
+        "chinese": "客戶",
+        "partOfSpeech": "n. 名詞",
+        "example": "We have a meeting with a new client."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "code",
+        "chinese": "代碼；規範",
+        "partOfSpeech": "n. 名詞",
+        "example": "Please enter the security code."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "combine",
+        "chinese": "結合",
+        "partOfSpeech": "v. 動詞",
+        "example": "We can combine business with pleasure."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "comment",
+        "chinese": "評論",
+        "partOfSpeech": "n. 名詞",
+        "example": "Do you have any comments on the report?"
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "commerce",
+        "chinese": "商業",
+        "partOfSpeech": "n. 名詞",
+        "example": "E-commerce is growing fast."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "commit",
+        "chinese": "承諾；致力於",
+        "partOfSpeech": "v. 動詞",
+        "example": "She is committed to the project."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "communicate",
+        "chinese": "溝通",
+        "partOfSpeech": "v. 動詞",
+        "example": "We communicate via email."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "community",
+        "chinese": "社區",
+        "partOfSpeech": "n. 名詞",
+        "example": "We serve the local community."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "compete",
+        "chinese": "競爭",
+        "partOfSpeech": "v. 動詞",
+        "example": "We compete with large companies."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "complaint",
+        "chinese": "抱怨；客訴",
+        "partOfSpeech": "n. 名詞",
+        "example": "We received a customer complaint."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "complex",
+        "chinese": "複雜的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The situation is very complex."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "concept",
+        "chinese": "概念",
+        "partOfSpeech": "n. 名詞",
+        "example": "The marketing concept is brilliant."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "concern",
+        "chinese": "擔憂；關於",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "Safety is our main concern."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "condition",
+        "chinese": "條件；狀況",
+        "partOfSpeech": "n. 名詞",
+        "example": "The item is in good condition."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "conference",
+        "chinese": "會議",
+        "partOfSpeech": "n. 名詞",
+        "example": "He is attending a conference."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "confirm",
+        "chinese": "確認",
+        "partOfSpeech": "v. 動詞",
+        "example": "Please confirm your attendance."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "consequence",
+        "chinese": "後果",
+        "partOfSpeech": "n. 名詞",
+        "example": "Consider the consequences of your decision."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "construct",
+        "chinese": "建造",
+        "partOfSpeech": "v. 動詞",
+        "example": "They are constructing a new office."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "consult",
+        "chinese": "諮詢",
+        "partOfSpeech": "v. 動詞",
+        "example": "You should consult an expert."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "consumer",
+        "chinese": "消費者",
+        "partOfSpeech": "n. 名詞",
+        "example": "Consumer confidence is rising."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "contract",
+        "chinese": "合約",
+        "partOfSpeech": "n. 名詞",
+        "example": "We signed the contract yesterday."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "contribution",
+        "chinese": "貢獻",
+        "partOfSpeech": "n. 名詞",
+        "example": "Thank you for your contribution."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "convenient",
+        "chinese": "方便的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Is 3 PM a convenient time?"
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "convince",
+        "chinese": "說服",
+        "partOfSpeech": "v. 動詞",
+        "example": "He convinced me to buy it."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "daily",
+        "chinese": "每日的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "We hold daily meetings."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "data",
+        "chinese": "數據",
+        "partOfSpeech": "n. 名詞",
+        "example": "We analyze customer data."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "deadline",
+        "chinese": "期限",
+        "partOfSpeech": "n. 名詞",
+        "example": "The deadline is tomorrow."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "deal",
+        "chinese": "交易；協議",
+        "partOfSpeech": "n. 名詞",
+        "example": "We made a deal with the supplier."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "decade",
+        "chinese": "十年",
+        "partOfSpeech": "n. 名詞",
+        "example": "Technology has changed in the last decade."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "decide",
+        "chinese": "決定",
+        "partOfSpeech": "v. 動詞",
+        "example": "We decided to expand."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "define",
+        "chinese": "定義",
+        "partOfSpeech": "v. 動詞",
+        "example": "We need to define our goals."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "delay",
+        "chinese": "延遲",
+        "partOfSpeech": "n. 名詞 / v. 動詞",
+        "example": "The flight was delayed."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "delivery",
+        "chinese": "運送",
+        "partOfSpeech": "n. 名詞",
+        "example": "Delivery is free for orders over $50."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "demand",
+        "chinese": "需求",
+        "partOfSpeech": "n. 名詞",
+        "example": "Demand for the product is high."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "demonstration",
+        "chinese": "示範；展示",
+        "partOfSpeech": "n. 名詞",
+        "example": "He gave a product demonstration."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "dependable",
+        "chinese": "可靠的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "We need a dependable employee."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "deserve",
+        "chinese": "應得",
+        "partOfSpeech": "v. 動詞",
+        "example": "She deserves a raise."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "detail",
+        "chinese": "細節",
+        "partOfSpeech": "n. 名詞",
+        "example": "Please send me the details."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "determine",
+        "chinese": "決定；查明",
+        "partOfSpeech": "v. 動詞",
+        "example": "We need to determine the cost."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "develop",
+        "chinese": "發展；開發",
+        "partOfSpeech": "v. 動詞",
+        "example": "They are developing new software."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "device",
+        "chinese": "裝置",
+        "partOfSpeech": "n. 名詞",
+        "example": "Electronic devices must be turned off."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "devote",
+        "chinese": "致力於",
+        "partOfSpeech": "v. 動詞",
+        "example": "He devotes his time to work."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "direction",
+        "chinese": "方向；指導",
+        "partOfSpeech": "n. 名詞",
+        "example": "Follow the directions on the map."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "director",
+        "chinese": "主管；董事",
+        "partOfSpeech": "n. 名詞",
+        "example": "The marketing director is here."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "disaster",
+        "chinese": "災難",
+        "partOfSpeech": "n. 名詞",
+        "example": "The event was a disaster."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "discount",
+        "chinese": "折扣",
+        "partOfSpeech": "n. 名詞",
+        "example": "We offer a 10% discount."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "dispute",
+        "chinese": "爭議",
+        "partOfSpeech": "n. 名詞",
+        "example": "They settled the dispute."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "distance",
+        "chinese": "距離",
+        "partOfSpeech": "n. 名詞",
+        "example": "The hotel is within walking distance."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "distribute",
+        "chinese": "分發；分配",
+        "partOfSpeech": "v. 動詞",
+        "example": "We distribute products globally."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "document",
+        "chinese": "文件",
+        "partOfSpeech": "n. 名詞",
+        "example": "Please sign the documents."
+    },
+    {
+        "category": "✈️ 差旅與交通 (Travel & Transport)",
+        "english": "domestic",
+        "chinese": "國內的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Domestic flights depart from Terminal 1."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "eager",
+        "chinese": "渴望的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "He is eager to start working."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "effect",
+        "chinese": "效果",
+        "partOfSpeech": "n. 名詞",
+        "example": "The new policy has a positive effect."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "effective",
+        "chinese": "有效的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "We need an effective strategy."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "effort",
+        "chinese": "努力",
+        "partOfSpeech": "n. 名詞",
+        "example": "Success requires effort."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "element",
+        "chinese": "要素",
+        "partOfSpeech": "n. 名詞",
+        "example": "Trust is a key element."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "emerge",
+        "chinese": "出現",
+        "partOfSpeech": "v. 動詞",
+        "example": "New competitors emerged."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "emergency",
+        "chinese": "緊急狀況",
+        "partOfSpeech": "n. 名詞",
+        "example": "In case of emergency, call 911."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "employ",
+        "chinese": "雇用",
+        "partOfSpeech": "v. 動詞",
+        "example": "We employ 50 staff."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "enable",
+        "chinese": "使能夠",
+        "partOfSpeech": "v. 動詞",
+        "example": "The tool enables faster work."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "encourage",
+        "chinese": "鼓勵",
+        "partOfSpeech": "v. 動詞",
+        "example": "We encourage teamwork."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "engineer",
+        "chinese": "工程師",
+        "partOfSpeech": "n. 名詞",
+        "example": "He is a software engineer."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "enormous",
+        "chinese": "巨大的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The cost was enormous."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "ensure",
+        "chinese": "確保",
+        "partOfSpeech": "v. 動詞",
+        "example": "Please ensure the quality."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "entertainment",
+        "chinese": "娛樂",
+        "partOfSpeech": "n. 名詞",
+        "example": "The budget covers entertainment expenses."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "entire",
+        "chinese": "整個的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The entire team agreed."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "environment",
+        "chinese": "環境",
+        "partOfSpeech": "n. 名詞",
+        "example": "We aim for a safe work environment."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "equip",
+        "chinese": "裝備；配備",
+        "partOfSpeech": "v. 動詞",
+        "example": "The office is equipped with computers."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "essential",
+        "chinese": "必要的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Experience is essential for this job."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "evaluate",
+        "chinese": "評估",
+        "partOfSpeech": "v. 動詞",
+        "example": "We evaluate employee performance yearly."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "event",
+        "chinese": "活動；事件",
+        "partOfSpeech": "n. 名詞",
+        "example": "The charity event was a success."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "eventually",
+        "chinese": "最終",
+        "partOfSpeech": "adv. 副詞",
+        "example": "We eventually reached a deal."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "evidence",
+        "chinese": "證據",
+        "partOfSpeech": "n. 名詞",
+        "example": "There is no evidence of fraud."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "excellent",
+        "chinese": "優秀的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "She did an excellent job."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "exchange",
+        "chinese": "交換",
+        "partOfSpeech": "v. 動詞",
+        "example": "We exchanged business cards."
+    },
+    {
+        "category": "🛒 行銷與購物 (Marketing & Sales)",
+        "english": "exhibition",
+        "chinese": "展覽",
+        "partOfSpeech": "n. 名詞",
+        "example": "We visited the trade exhibition."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "expand",
+        "chinese": "擴張",
+        "partOfSpeech": "v. 動詞",
+        "example": "The company plans to expand."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "expect",
+        "chinese": "預期",
+        "partOfSpeech": "v. 動詞",
+        "example": "We expect profits to rise."
+    },
+    {
+        "category": "💰 金融與預算 (Finance & Budget)",
+        "english": "expensive",
+        "chinese": "昂貴的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "The equipment is expensive."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "experience",
+        "chinese": "經驗",
+        "partOfSpeech": "n. 名詞",
+        "example": "He has 10 years of experience."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "experiment",
+        "chinese": "實驗",
+        "partOfSpeech": "n. 名詞",
+        "example": "We are running an experiment."
+    },
+    {
+        "category": "🤝 人事與職業 (HR & Career)",
+        "english": "expert",
+        "chinese": "專家",
+        "partOfSpeech": "n. 名詞",
+        "example": "She is a financial expert."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "explore",
+        "chinese": "探索",
+        "partOfSpeech": "v. 動詞",
+        "example": "We explore new markets."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "export",
+        "chinese": "出口",
+        "partOfSpeech": "v. 動詞",
+        "example": "We export to Asia."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "express",
+        "chinese": "表達；快遞",
+        "partOfSpeech": "v. 動詞",
+        "example": "Please send it via express mail."
+    },
+    {
+        "category": "🏢 商業與管理 (Business & Management)",
+        "english": "extend",
+        "chinese": "延長；延伸",
+        "partOfSpeech": "v. 動詞",
+        "example": "We extended the deadline."
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "extra",
+        "chinese": "額外的",
+        "partOfSpeech": "adj. 形容詞",
+        "example": "Do you have extra copies?"
+    },
+    {
+        "category": "🏠 一般與生活 (General & Life)",
+        "english": "extremely",
+        "chinese": "極度地",
+        "partOfSpeech": "adv. 副詞",
+        "example": "It is extremely important."
+    },
+    {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "facial",
+            "chinese": "臉部的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "She booked a facial treatment."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fail",
+            "chinese": "失敗",
+            "partOfSpeech": "v. 動詞",
+            "example": "He failed to meet the requirements."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fair",
+            "chinese": "公平的；博覽會",
+            "partOfSpeech": "adj. 形容詞 / n. 名詞",
+            "example": "It's not fair to blame him."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fame",
+            "chinese": "名聲",
+            "partOfSpeech": "n. 名詞",
+            "example": "He achieved fame as a writer."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fantastic",
+            "chinese": "極好的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "The idea sounds fantastic."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "fare",
+            "chinese": "票價",
+            "partOfSpeech": "n. 名詞",
+            "example": "Bus fares have increased."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fear",
+            "chinese": "恐懼",
+            "partOfSpeech": "n. 名詞",
+            "example": "He has a fear of heights."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "feast",
+            "chinese": "盛宴",
+            "partOfSpeech": "n. 名詞",
+            "example": "We prepared a feast for the guests."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "festival",
+            "chinese": "節日",
+            "partOfSpeech": "n. 名詞",
+            "example": "The music festival starts tomorrow."
+        },
+        {
+            "category": "💰 金融與預算 (Finance & Budget)",
+            "english": "financial",
+            "chinese": "財務的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "The company is in financial trouble."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fine",
+            "chinese": "良好的；罰款",
+            "partOfSpeech": "adj. 形容詞 / n. 名詞",
+            "example": "Everything is fine."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "flat",
+            "chinese": "平坦的；公寓",
+            "partOfSpeech": "adj. 形容詞 / n. 名詞",
+            "example": "The tire is flat."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "fluent",
+            "chinese": "流利的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "She is fluent in English."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "forbidden",
+            "chinese": "禁止的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Entry is forbidden."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "force",
+            "chinese": "力量；強迫",
+            "partOfSpeech": "n. 名詞 / v. 動詞",
+            "example": "They used force to open the door."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "formula",
+            "chinese": "公式；配方",
+            "partOfSpeech": "n. 名詞",
+            "example": "What is the formula for success?"
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fortunate",
+            "chinese": "幸運的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "I was fortunate to get the job."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "forward",
+            "chinese": "向前的",
+            "partOfSpeech": "adv. 副詞",
+            "example": "Please move forward."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "found",
+            "chinese": "創立",
+            "partOfSpeech": "v. 動詞",
+            "example": "The company was founded in 1990."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "foundation",
+            "chinese": "基礎；基金會",
+            "partOfSpeech": "n. 名詞",
+            "example": "This course provides a solid foundation."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "freedom",
+            "chinese": "自由",
+            "partOfSpeech": "n. 名詞",
+            "example": "We value our freedom."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "frequently",
+            "chinese": "頻繁地",
+            "partOfSpeech": "adv. 副詞",
+            "example": "Check the website frequently."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "frustrated",
+            "chinese": "挫折的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "He felt frustrated with the delay."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "fulfill",
+            "chinese": "履行；完成",
+            "partOfSpeech": "v. 動詞",
+            "example": "He fulfilled his duties."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "function",
+            "chinese": "功能",
+            "partOfSpeech": "n. 名詞",
+            "example": "The main function is to save time."
+        },
+        {
+            "category": "💰 金融與預算 (Finance & Budget)",
+            "english": "fund",
+            "chinese": "資金；基金",
+            "partOfSpeech": "n. 名詞",
+            "example": "We are raising funds for the project."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "fundamental",
+            "chinese": "基本的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "There is a fundamental difference."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "further",
+            "chinese": "進一步的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Do you have any further questions?"
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "future",
+            "chinese": "未來",
+            "partOfSpeech": "n. 名詞",
+            "example": "Plan for the future."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "gap",
+            "chinese": "差距",
+            "partOfSpeech": "n. 名詞",
+            "example": "Mind the gap."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "gas",
+            "chinese": "瓦斯；氣體",
+            "partOfSpeech": "n. 名詞",
+            "example": "Prices of gas are rising."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "generation",
+            "chinese": "世代",
+            "partOfSpeech": "n. 名詞",
+            "example": "The younger generation is tech-savvy."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "genuine",
+            "chinese": "真正的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Is this genuine leather?"
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "global",
+            "chinese": "全球的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "We are a global company."
+        },
+        {
+            "category": "🛒 行銷與購物 (Marketing & Sales)",
+            "english": "goods",
+            "chinese": "貨物；商品",
+            "partOfSpeech": "n. 名詞",
+            "example": "The goods were delivered on time."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "govern",
+            "chinese": "統治；管理",
+            "partOfSpeech": "v. 動詞",
+            "example": "Laws govern our society."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "gradually",
+            "chinese": "逐漸地",
+            "partOfSpeech": "adv. 副詞",
+            "example": "Sales are increasing gradually."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "graduate",
+            "chinese": "畢業生",
+            "partOfSpeech": "n. 名詞",
+            "example": "He is a university graduate."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "grasp",
+            "chinese": "掌握；抓緊",
+            "partOfSpeech": "v. 動詞",
+            "example": "He grasped the concept quickly."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "gratitude",
+            "chinese": "感謝",
+            "partOfSpeech": "n. 名詞",
+            "example": "I want to express my gratitude."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "growth",
+            "chinese": "成長",
+            "partOfSpeech": "n. 名詞",
+            "example": "The company is experiencing rapid growth."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "guard",
+            "chinese": "守衛",
+            "partOfSpeech": "n. 名詞",
+            "example": "The security guard checked our IDs."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "guidance",
+            "chinese": "指導",
+            "partOfSpeech": "n. 名詞",
+            "example": "Thank you for your guidance."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "guide",
+            "chinese": "嚮導；指南",
+            "partOfSpeech": "n. 名詞",
+            "example": "We hired a tour guide."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "handle",
+            "chinese": "處理",
+            "partOfSpeech": "v. 動詞",
+            "example": "Can you handle this situation?"
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "handy",
+            "chinese": "便利的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "This tool is very handy."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "hardship",
+            "chinese": "困苦",
+            "partOfSpeech": "n. 名詞",
+            "example": "They faced financial hardship."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "harmful",
+            "chinese": "有害的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Smoking is harmful to health."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "harvest",
+            "chinese": "收成",
+            "partOfSpeech": "n. 名詞",
+            "example": "It was a good harvest this year."
+        },
+        {
+            "category": "🛒 行銷與購物 (Marketing & Sales)",
+            "english": "headline",
+            "chinese": "頭條；標題",
+            "partOfSpeech": "n. 名詞",
+            "example": "The news made headlines."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "headquarters",
+            "chinese": "總部",
+            "partOfSpeech": "n. 名詞",
+            "example": "Our headquarters are in London."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "hesitate",
+            "chinese": "猶豫",
+            "partOfSpeech": "v. 動詞",
+            "example": "Don't hesitate to call me."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "highly",
+            "chinese": "高度地",
+            "partOfSpeech": "adv. 副詞",
+            "example": "He is highly recommended."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "honest",
+            "chinese": "誠實的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "To be honest, I don't know."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "honor",
+            "chinese": "榮譽",
+            "partOfSpeech": "n. 名詞",
+            "example": "It is an honor to meet you."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "ideal",
+            "chinese": "理想的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "This is an ideal location."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "identity",
+            "chinese": "身分",
+            "partOfSpeech": "n. 名詞",
+            "example": "Please prove your identity."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "illustrate",
+            "chinese": "說明；舉例",
+            "partOfSpeech": "v. 動詞",
+            "example": "This chart illustrates the growth."
+        },
+        {
+            "category": "🛒 行銷與購物 (Marketing & Sales)",
+            "english": "image",
+            "chinese": "形象；圖像",
+            "partOfSpeech": "n. 名詞",
+            "example": "We need to improve our brand image."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "imagination",
+            "chinese": "想像力",
+            "partOfSpeech": "n. 名詞",
+            "example": "Use your imagination."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "immediately",
+            "chinese": "立即",
+            "partOfSpeech": "adv. 副詞",
+            "example": "Please leave immediately."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "immigration",
+            "chinese": "移民；入境檢查",
+            "partOfSpeech": "n. 名詞",
+            "example": "We cleared immigration quickly."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "impact",
+            "chinese": "影響；衝擊",
+            "partOfSpeech": "n. 名詞",
+            "example": "The tax has a negative impact."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "importance",
+            "chinese": "重要性",
+            "partOfSpeech": "n. 名詞",
+            "example": "I understand the importance of this task."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "improve",
+            "chinese": "改善",
+            "partOfSpeech": "v. 動詞",
+            "example": "We want to improve our service."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "include",
+            "chinese": "包括",
+            "partOfSpeech": "v. 動詞",
+            "example": "The price includes tax."
+        },
+        {
+            "category": "💰 金融與預算 (Finance & Budget)",
+            "english": "income",
+            "chinese": "收入",
+            "partOfSpeech": "n. 名詞",
+            "example": "His monthly income has increased."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "industry",
+            "chinese": "產業；工業",
+            "partOfSpeech": "n. 名詞",
+            "example": "The tech industry is booming."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "influential",
+            "chinese": "有影響力的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "He is an influential leader."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "initial",
+            "chinese": "最初的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "My initial reaction was surprise."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "inspection",
+            "chinese": "檢查",
+            "partOfSpeech": "n. 名詞",
+            "example": "The safety inspection is tomorrow."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "inspire",
+            "chinese": "激勵",
+            "partOfSpeech": "v. 動詞",
+            "example": "His speech inspired us."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "install",
+            "chinese": "安裝",
+            "partOfSpeech": "v. 動詞",
+            "example": "We need to install the software."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "instruction",
+            "chinese": "說明；指示",
+            "partOfSpeech": "n. 名詞",
+            "example": "Follow the instructions carefully."
+        },
+        {
+            "category": "💰 金融與預算 (Finance & Budget)",
+            "english": "insurance",
+            "chinese": "保險",
+            "partOfSpeech": "n. 名詞",
+            "example": "Do you have travel insurance?"
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "intend",
+            "chinese": "打算",
+            "partOfSpeech": "v. 動詞",
+            "example": "I intend to finish it today."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "interpret",
+            "chinese": "口譯；解釋",
+            "partOfSpeech": "v. 動詞",
+            "example": "She interpreted for the guests."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "interrupt",
+            "chinese": "打斷",
+            "partOfSpeech": "v. 動詞",
+            "example": "Please don't interrupt."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "introduce",
+            "chinese": "介紹",
+            "partOfSpeech": "v. 動詞",
+            "example": "Let me introduce myself."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "invitation",
+            "chinese": "邀請",
+            "partOfSpeech": "n. 名詞",
+            "example": "Thanks for the invitation."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "issue",
+            "chinese": "議題；發行",
+            "partOfSpeech": "n. 名詞 / v. 動詞",
+            "example": "This is a serious issue."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "jet lag",
+            "chinese": "時差",
+            "partOfSpeech": "n. 名詞",
+            "example": "I have terrible jet lag."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "journal",
+            "chinese": "日誌；期刊",
+            "partOfSpeech": "n. 名詞",
+            "example": "He writes in a journal."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "journey",
+            "chinese": "旅程",
+            "partOfSpeech": "n. 名詞",
+            "example": "Have a safe journey."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "kick off",
+            "chinese": "開始",
+            "partOfSpeech": "v. 動詞",
+            "example": "The meeting kicked off at 9 AM."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "labor",
+            "chinese": "勞工；勞動",
+            "partOfSpeech": "n. 名詞",
+            "example": "Labor costs are rising."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "lack",
+            "chinese": "缺乏",
+            "partOfSpeech": "n. 名詞 / v. 動詞",
+            "example": "The project lacks funding."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "landscape",
+            "chinese": "風景",
+            "partOfSpeech": "n. 名詞",
+            "example": "The landscape is beautiful."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "lawyer",
+            "chinese": "律師",
+            "partOfSpeech": "n. 名詞",
+            "example": "Consult a lawyer."
+        },
+        {
+            "category": "🏢 商業與管理 (Business & Management)",
+            "english": "legal",
+            "chinese": "法律的；合法的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Take legal action."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "length",
+            "chinese": "長度",
+            "partOfSpeech": "n. 名詞",
+            "example": "Measure the length."
+        },
+        {
+            "category": "🏠 一般與生活 (General & Life)",
+            "english": "limit",
+            "chinese": "限制",
+            "partOfSpeech": "n. 名詞",
+            "example": "There is a speed limit."
+        },
+        {
+            "category": "🛒 行銷與購物 (Marketing & Sales)",
+            "english": "limited",
+            "chinese": "有限的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "Limited time offer."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "location",
+            "chinese": "地點",
+            "partOfSpeech": "n. 名詞",
+            "example": "The location is perfect."
+        },
+        {
+            "category": "💰 金融與預算 (Finance & Budget)",
+            "english": "loss",
+            "chinese": "損失",
+            "partOfSpeech": "n. 名詞",
+            "example": "The company reported a loss."
+        },
+        {
+            "category": "🤝 人事與職業 (HR & Career)",
+            "english": "loyal",
+            "chinese": "忠誠的",
+            "partOfSpeech": "adj. 形容詞",
+            "example": "He is a loyal employee."
+        },
+        {
+            "category": "✈️ 差旅與交通 (Travel & Transport)",
+            "english": "luggage",
+            "chinese": "行李",
+            "partOfSpeech": "n. 名詞",
+            "example": "Check your luggage."
+        },
+        {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "magnificent",
+                "chinese": "壯麗的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "The view from the top is magnificent."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "maintain",
+                "chinese": "維持；保養",
+                "partOfSpeech": "v. 動詞",
+                "example": "It is important to maintain the machine."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "manage",
+                "chinese": "管理；設法做到",
+                "partOfSpeech": "v. 動詞",
+                "example": "He manages a team of 10 people."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "manager",
+                "chinese": "經理",
+                "partOfSpeech": "n. 名詞",
+                "example": "I need to speak to the manager."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "marvelous",
+                "chinese": "非凡的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "We had a marvelous time."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "material",
+                "chinese": "材料",
+                "partOfSpeech": "n. 名詞",
+                "example": "Building materials are expensive."
+            },
+            {
+                "category": "💰 金融與預算 (Finance & Budget)",
+                "english": "maturity",
+                "chinese": "成熟；(票據)到期",
+                "partOfSpeech": "n. 名詞",
+                "example": "The bond reaches maturity in 10 years."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "media",
+                "chinese": "媒體",
+                "partOfSpeech": "n. 名詞",
+                "example": "Social media is a powerful tool."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "membership",
+                "chinese": "會員資格",
+                "partOfSpeech": "n. 名詞",
+                "example": "Membership fees are due next month."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "memorable",
+                "chinese": "難忘的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "It was a memorable trip."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "merit",
+                "chinese": "優點；功績",
+                "partOfSpeech": "n. 名詞",
+                "example": "Promotions are based on merit."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "mobile",
+                "chinese": "可移動的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "Mobile technology is changing rapidly."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "motivate",
+                "chinese": "激勵",
+                "partOfSpeech": "v. 動詞",
+                "example": "Good leaders motivate their teams."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "native",
+                "chinese": "本地的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "He is a native English speaker."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "nature",
+                "chinese": "自然；本質",
+                "partOfSpeech": "n. 名詞",
+                "example": "It is human nature to be curious."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "necessarily",
+                "chinese": "必然地",
+                "partOfSpeech": "adv. 副詞",
+                "example": "Expensive doesn't necessarily mean better."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "negotiate",
+                "chinese": "談判",
+                "partOfSpeech": "v. 動詞",
+                "example": "We negotiated a better price."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "neighborhood",
+                "chinese": "鄰近地區",
+                "partOfSpeech": "n. 名詞",
+                "example": "It is a safe neighborhood."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "nevertheless",
+                "chinese": "儘管如此",
+                "partOfSpeech": "adv. 副詞",
+                "example": "It was raining; nevertheless, we went out."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "noble",
+                "chinese": "高貴的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "He has a noble character."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "normal",
+                "chinese": "正常的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "Business is back to normal."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "numerous",
+                "chinese": "許多的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "There are numerous options."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "object",
+                "chinese": "物體；反對",
+                "partOfSpeech": "n. 名詞 / v. 動詞",
+                "example": "The goal is the object of the game."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "objective",
+                "chinese": "目標；客觀的",
+                "partOfSpeech": "n. 名詞",
+                "example": "Our main objective is growth."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "observe",
+                "chinese": "觀察；遵守",
+                "partOfSpeech": "v. 動詞",
+                "example": "Please observe the rules."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "obstacle",
+                "chinese": "障礙",
+                "partOfSpeech": "n. 名詞",
+                "example": "We overcame many obstacles."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "obtain",
+                "chinese": "獲得",
+                "partOfSpeech": "v. 動詞",
+                "example": "Where can I obtain a map?"
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "obvious",
+                "chinese": "明顯的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "The answer is obvious."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "occasion",
+                "chinese": "場合",
+                "partOfSpeech": "n. 名詞",
+                "example": "It was a special occasion."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "operation",
+                "chinese": "營運；操作",
+                "partOfSpeech": "n. 名詞",
+                "example": "The factory is in full operation."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "opinion",
+                "chinese": "意見",
+                "partOfSpeech": "n. 名詞",
+                "example": "In my opinion, it is too expensive."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "outcome",
+                "chinese": "結果",
+                "partOfSpeech": "n. 名詞",
+                "example": "We are waiting for the outcome."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "overlook",
+                "chinese": "忽略；俯瞰",
+                "partOfSpeech": "v. 動詞",
+                "example": "Don't overlook the details."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "participate",
+                "chinese": "參與",
+                "partOfSpeech": "v. 動詞",
+                "example": "She participated in the discussion."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "particular",
+                "chinese": "特別的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "I have no particular preference."
+            },
+            {
+                "category": "✈️ 差旅與交通 (Travel & Transport)",
+                "english": "passenger",
+                "chinese": "乘客",
+                "partOfSpeech": "n. 名詞",
+                "example": "Passengers must wear seatbelts."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "patience",
+                "chinese": "耐心",
+                "partOfSpeech": "n. 名詞",
+                "example": "Thank you for your patience."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "performance",
+                "chinese": "表現；性能",
+                "partOfSpeech": "n. 名詞",
+                "example": "Her performance was outstanding."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "period",
+                "chinese": "期間",
+                "partOfSpeech": "n. 名詞",
+                "example": "The trial period is 30 days."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "personality",
+                "chinese": "個性",
+                "partOfSpeech": "n. 名詞",
+                "example": "He has a friendly personality."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "pleasure",
+                "chinese": "榮幸；樂趣",
+                "partOfSpeech": "n. 名詞",
+                "example": "It's a pleasure to work with you."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "plenty",
+                "chinese": "豐富；大量",
+                "partOfSpeech": "n. 名詞",
+                "example": "We have plenty of time."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "policy",
+                "chinese": "政策",
+                "partOfSpeech": "n. 名詞",
+                "example": "Please read the return policy."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "popularity",
+                "chinese": "流行；聲望",
+                "partOfSpeech": "n. 名詞",
+                "example": "The product is gaining popularity."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "possess",
+                "chinese": "擁有",
+                "partOfSpeech": "v. 動詞",
+                "example": "Candidates must possess strong skills."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "post",
+                "chinese": "職位；張貼",
+                "partOfSpeech": "n. 名詞 / v. 動詞",
+                "example": "He resigned from his post."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "powerful",
+                "chinese": "強大的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "It is a powerful computer."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "practical",
+                "chinese": "實用的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "We need a practical solution."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "precious",
+                "chinese": "珍貴的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "Time is precious."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "preparation",
+                "chinese": "準備",
+                "partOfSpeech": "n. 名詞",
+                "example": "Preparation is key."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "pressure",
+                "chinese": "壓力",
+                "partOfSpeech": "n. 名詞",
+                "example": "He works well under pressure."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "previous",
+                "chinese": "先前的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "In the previous chapter..."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "priority",
+                "chinese": "優先權",
+                "partOfSpeech": "n. 名詞",
+                "example": "Safety is our top priority."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "privacy",
+                "chinese": "隱私",
+                "partOfSpeech": "n. 名詞",
+                "example": "We respect your privacy."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "proceed",
+                "chinese": "繼續進行",
+                "partOfSpeech": "v. 動詞",
+                "example": "Please proceed to the gate."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "production",
+                "chinese": "生產",
+                "partOfSpeech": "n. 名詞",
+                "example": "Production has increased."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "professional",
+                "chinese": "專業的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "Be professional at work."
+            },
+            {
+                "category": "💰 金融與預算 (Finance & Budget)",
+                "english": "profit",
+                "chinese": "利潤",
+                "partOfSpeech": "n. 名詞",
+                "example": "We made a good profit."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "progress",
+                "chinese": "進展",
+                "partOfSpeech": "n. 名詞",
+                "example": "We are making progress."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "project",
+                "chinese": "專案；計畫",
+                "partOfSpeech": "n. 名詞",
+                "example": "The project is on schedule."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "prominent",
+                "chinese": "傑出的；突出的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "He is a prominent figure."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "promise",
+                "chinese": "承諾",
+                "partOfSpeech": "n. 名詞",
+                "example": "I keep my promises."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "promotional",
+                "chinese": "促銷的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "This is a promotional item."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "proof",
+                "chinese": "證明",
+                "partOfSpeech": "n. 名詞",
+                "example": "Do you have proof?"
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "property",
+                "chinese": "財產；房地產",
+                "partOfSpeech": "n. 名詞",
+                "example": "He owns property in the city."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "proposal",
+                "chinese": "提案",
+                "partOfSpeech": "n. 名詞",
+                "example": "The committee reviewed the proposal."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "protect",
+                "chinese": "保護",
+                "partOfSpeech": "v. 動詞",
+                "example": "Protect your password."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "prove",
+                "chinese": "證明",
+                "partOfSpeech": "v. 動詞",
+                "example": "He proved them wrong."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "provide",
+                "chinese": "提供",
+                "partOfSpeech": "v. 動詞",
+                "example": "We provide free training."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "public",
+                "chinese": "公眾；公開的",
+                "partOfSpeech": "n. 名詞 / adj. 形容詞",
+                "example": "The library is open to the public."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "publicity",
+                "chinese": "宣傳",
+                "partOfSpeech": "n. 名詞",
+                "example": "The event got good publicity."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "purchase",
+                "chinese": "購買",
+                "partOfSpeech": "v. 動詞",
+                "example": "I purchased a new laptop."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "pursue",
+                "chinese": "追求",
+                "partOfSpeech": "v. 動詞",
+                "example": "She wants to pursue a career in art."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "quality",
+                "chinese": "品質",
+                "partOfSpeech": "n. 名詞",
+                "example": "We focus on high quality."
+            },
+            {
+                "category": "💰 金融與預算 (Finance & Budget)",
+                "english": "raise",
+                "chinese": "加薪；提高",
+                "partOfSpeech": "n. 名詞 / v. 動詞",
+                "example": "He asked for a raise."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "range",
+                "chinese": "範圍",
+                "partOfSpeech": "n. 名詞",
+                "example": "We offer a wide range of products."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "rapid",
+                "chinese": "迅速的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "The growth was rapid."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "reach",
+                "chinese": "到達；聯絡",
+                "partOfSpeech": "v. 動詞",
+                "example": "You can reach me by email."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "reasonable",
+                "chinese": "合理的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "The price is reasonable."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "recent",
+                "chinese": "最近的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "In recent years, sales have dropped."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "recognition",
+                "chinese": "認可；表彰",
+                "partOfSpeech": "n. 名詞",
+                "example": "He received recognition for his service."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "recommend",
+                "chinese": "推薦",
+                "partOfSpeech": "v. 動詞",
+                "example": "I recommend this book."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "recover",
+                "chinese": "恢復",
+                "partOfSpeech": "v. 動詞",
+                "example": "He recovered from the illness."
+            },
+            {
+                "category": "💰 金融與預算 (Finance & Budget)",
+                "english": "reduce",
+                "chinese": "減少",
+                "partOfSpeech": "v. 動詞",
+                "example": "We need to reduce costs."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "reference",
+                "chinese": "參考；推薦信",
+                "partOfSpeech": "n. 名詞",
+                "example": "Please provide three references."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "regarding",
+                "chinese": "關於",
+                "partOfSpeech": "prep. 介係詞",
+                "example": "I am writing regarding your order."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "region",
+                "chinese": "地區",
+                "partOfSpeech": "n. 名詞",
+                "example": "Sales in this region are high."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "regulation",
+                "chinese": "法規",
+                "partOfSpeech": "n. 名詞",
+                "example": "We must follow safety regulations."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "reject",
+                "chinese": "拒絕",
+                "partOfSpeech": "v. 動詞",
+                "example": "The proposal was rejected."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "relation",
+                "chinese": "關係",
+                "partOfSpeech": "n. 名詞",
+                "example": "International relations are important."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "release",
+                "chinese": "發布；釋放",
+                "partOfSpeech": "v. 動詞",
+                "example": "The product will be released soon."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "reliable",
+                "chinese": "可靠的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "We need reliable data."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "rely",
+                "chinese": "依靠",
+                "partOfSpeech": "v. 動詞",
+                "example": "You can rely on us."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "remain",
+                "chinese": "保持；剩下",
+                "partOfSpeech": "v. 動詞",
+                "example": "Please remain seated."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "remarkable",
+                "chinese": "非凡的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "It was a remarkable achievement."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "remind",
+                "chinese": "提醒",
+                "partOfSpeech": "v. 動詞",
+                "example": "Please remind me to call him."
+            },
+            {
+                "category": "✈️ 差旅與交通 (Travel & Transport)",
+                "english": "remote",
+                "chinese": "遙遠的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "He works in a remote location."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "replace",
+                "chinese": "更換；取代",
+                "partOfSpeech": "v. 動詞",
+                "example": "We need to replace the printer."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "report",
+                "chinese": "報告",
+                "partOfSpeech": "n. 名詞",
+                "example": "Submit the report by Friday."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "represent",
+                "chinese": "代表",
+                "partOfSpeech": "v. 動詞",
+                "example": "He represents our company."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "reputation",
+                "chinese": "聲譽",
+                "partOfSpeech": "n. 名詞",
+                "example": "The firm has a solid reputation."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "request",
+                "chinese": "要求",
+                "partOfSpeech": "n. 名詞",
+                "example": "We received a request for information."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "require",
+                "chinese": "需要",
+                "partOfSpeech": "v. 動詞",
+                "example": "This job requires experience."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "research",
+                "chinese": "研究",
+                "partOfSpeech": "n. 名詞",
+                "example": "Market research is vital."
+            },
+            {
+                "category": "✈️ 差旅與交通 (Travel & Transport)",
+                "english": "reservation",
+                "chinese": "預約",
+                "partOfSpeech": "n. 名詞",
+                "example": "I have a hotel reservation."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "resident",
+                "chinese": "居民",
+                "partOfSpeech": "n. 名詞",
+                "example": "Local residents complained."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "resign",
+                "chinese": "辭職",
+                "partOfSpeech": "v. 動詞",
+                "example": "He resigned yesterday."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "resolve",
+                "chinese": "解決",
+                "partOfSpeech": "v. 動詞",
+                "example": "We resolved the issue."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "resource",
+                "chinese": "資源",
+                "partOfSpeech": "n. 名詞",
+                "example": "We must use resources wisely."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "response",
+                "chinese": "回應",
+                "partOfSpeech": "n. 名詞",
+                "example": "I am waiting for a response."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "result",
+                "chinese": "結果",
+                "partOfSpeech": "n. 名詞",
+                "example": "The results were positive."
+            },
+            {
+                "category": "🛒 行銷與購物 (Marketing & Sales)",
+                "english": "retail",
+                "chinese": "零售",
+                "partOfSpeech": "n. 名詞",
+                "example": "The retail price is $20."
+            },
+            {
+                "category": "🏢 商業與管理 (Business & Management)",
+                "english": "risk",
+                "chinese": "風險",
+                "partOfSpeech": "n. 名詞",
+                "example": "There is a financial risk."
+            },
+            {
+                "category": "🤝 人事與職業 (HR & Career)",
+                "english": "role",
+                "chinese": "角色",
+                "partOfSpeech": "n. 名詞",
+                "example": "She plays a key role."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "routine",
+                "chinese": "例行公事",
+                "partOfSpeech": "n. 名詞",
+                "example": "It is part of my daily routine."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "rumor",
+                "chinese": "謠言",
+                "partOfSpeech": "n. 名詞",
+                "example": "I heard a rumor."
+            },
+            {
+                "category": "🏠 一般與生活 (General & Life)",
+                "english": "rural",
+                "chinese": "鄉村的",
+                "partOfSpeech": "adj. 形容詞",
+                "example": "He lives in a rural area."
+            },
+            {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "satisfy",
+                    "chinese": "滿足",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "The meal satisfied our hunger."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "schedule",
+                    "chinese": "行程表",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The project is behind schedule."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "security",
+                    "chinese": "保全；安全",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Security cameras are installed."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "seek",
+                    "chinese": "尋求",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "We are seeking a new partner."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "select",
+                    "chinese": "選擇",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Please select an option."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "sense",
+                    "chinese": "感覺；理智",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "It makes sense to wait."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "separate",
+                    "chinese": "分開的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "They have separate rooms."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "serious",
+                    "chinese": "嚴重的；認真的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "This is a serious mistake."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "service",
+                    "chinese": "服務",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Customer service is important."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "share",
+                    "chinese": "股份；分享",
+                    "partOfSpeech": "n. 名詞 / v. 動詞",
+                    "example": "We bought shares in the company."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "shortage",
+                    "chinese": "短缺",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "There is a shortage of staff."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "sign",
+                    "chinese": "簽名；標誌",
+                    "partOfSpeech": "v. 動詞 / n. 名詞",
+                    "example": "Please sign the contract."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "significant",
+                    "chinese": "顯著的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "There was a significant increase."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "similar",
+                    "chinese": "相似的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The two products are similar."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "simple",
+                    "chinese": "簡單的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Keep it simple."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "single",
+                    "chinese": "單一的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Not a single ticket was left."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "site",
+                    "chinese": "地點；網站",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Visit our website."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "situation",
+                    "chinese": "情況",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We are monitoring the situation."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "skill",
+                    "chinese": "技能",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He has excellent computer skills."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "social",
+                    "chinese": "社交的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Social media marketing is effective."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "solution",
+                    "chinese": "解決方案",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We need a quick solution."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "solve",
+                    "chinese": "解決",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Can you solve this problem?"
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "source",
+                    "chinese": "來源",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Identify the source of the leak."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "specific",
+                    "chinese": "具體的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Please be more specific."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "staff",
+                    "chinese": "全體員工",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The staff is very helpful."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "stage",
+                    "chinese": "階段",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The project is in the early stages."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "standard",
+                    "chinese": "標準",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We have high standards."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "state",
+                    "chinese": "說明；狀態",
+                    "partOfSpeech": "v. 動詞 / n. 名詞",
+                    "example": "Please state your purpose."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "statement",
+                    "chinese": "聲明；對帳單",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Check your bank statement."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "status",
+                    "chinese": "狀態",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Check the status of the order."
+                },
+                {
+                    "category": "🛒 行銷與購物 (Marketing & Sales)",
+                    "english": "stock",
+                    "chinese": "庫存；股票",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The item is out of stock."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "strategy",
+                    "chinese": "策略",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We need a new business strategy."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "stress",
+                    "chinese": "壓力",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Work stress can affect health."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "structure",
+                    "chinese": "結構",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The organizational structure is complex."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "struggle",
+                    "chinese": "奮鬥；掙扎",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "The company is struggling."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "success",
+                    "chinese": "成功",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We celebrated our success."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "successful",
+                    "chinese": "成功的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The campaign was successful."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "suggest",
+                    "chinese": "建議",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "I suggest a meeting."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "suitable",
+                    "chinese": "合適的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Is this suitable for office wear?"
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "supply",
+                    "chinese": "供應",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "We supply office equipment."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "support",
+                    "chinese": "支持",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "We support our employees."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "surface",
+                    "chinese": "表面",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The surface is smooth."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "survive",
+                    "chinese": "生存",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "The company survived the crisis."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "system",
+                    "chinese": "系統",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The new system is efficient."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "target",
+                    "chinese": "目標",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We met our sales target."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "task",
+                    "chinese": "任務",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Complete the task by noon."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "technical",
+                    "chinese": "技術的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "We need technical support."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "technique",
+                    "chinese": "技巧",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He has a special technique."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "technology",
+                    "chinese": "科技",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Technology is changing business."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "temporary",
+                    "chinese": "暫時的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It is a temporary job."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "tend",
+                    "chinese": "傾向於",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Prices tend to rise."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "term",
+                    "chinese": "條款；術語",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Read the terms of service."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "terrible",
+                    "chinese": "糟糕的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The service was terrible."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "theory",
+                    "chinese": "理論",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "In theory, it works."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "tide",
+                    "chinese": "潮汐；趨勢",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The tide is turning."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "total",
+                    "chinese": "總計的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The total cost is $100."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "tough",
+                    "chinese": "艱難的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It is a tough market."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "tourist",
+                    "chinese": "遊客",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The city attracts many tourists."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "trade",
+                    "chinese": "貿易",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Free trade is beneficial."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "tradition",
+                    "chinese": "傳統",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "It is a family tradition."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "traditional",
+                    "chinese": "傳統的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "We use traditional methods."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "traffic",
+                    "chinese": "交通",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Traffic is heavy today."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "transfer",
+                    "chinese": "轉移；轉帳",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Transfer the funds today."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "transform",
+                    "chinese": "改造",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "The new CEO transformed the company."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "translate",
+                    "chinese": "翻譯",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Translate the document into English."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "transport",
+                    "chinese": "運輸",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Public transport is reliable."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "travel",
+                    "chinese": "旅行",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "I travel for business."
+                },
+                {
+                    "category": "🛒 行銷與購物 (Marketing & Sales)",
+                    "english": "trend",
+                    "chinese": "趨勢",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Follow the latest trends."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "trip",
+                    "chinese": "旅行",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Have a nice trip."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "tropical",
+                    "chinese": "熱帶的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Tropical fruit is delicious."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "trouble",
+                    "chinese": "麻煩",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We are in trouble."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "typical",
+                    "chinese": "典型的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It was a typical day."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "unable",
+                    "chinese": "不能的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "I am unable to attend."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "understand",
+                    "chinese": "理解",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Do you understand the contract?"
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "unexpected",
+                    "chinese": "意想不到的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "There was an unexpected delay."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "union",
+                    "chinese": "工會",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The union represents workers."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "unique",
+                    "chinese": "獨特的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "This is a unique opportunity."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "unit",
+                    "chinese": "單位",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Each unit costs $10."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "universal",
+                    "chinese": "普遍的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It is a universal problem."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "university",
+                    "chinese": "大學",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "She studies at the university."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "unless",
+                    "chinese": "除非",
+                    "partOfSpeech": "conj. 連接詞",
+                    "example": "Do not sign unless you are sure."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "update",
+                    "chinese": "更新",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Please update your records."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "urban",
+                    "chinese": "都市的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Urban development is planning."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "urgent",
+                    "chinese": "緊急的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "This is an urgent message."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "use",
+                    "chinese": "使用",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Use this tool carefully."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "useful",
+                    "chinese": "有用的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Your feedback was useful."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "usual",
+                    "chinese": "平常的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Business as usual."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "utilize",
+                    "chinese": "利用",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "We utilize the latest technology."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "vacation",
+                    "chinese": "假期",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "I am on vacation."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "valid",
+                    "chinese": "有效的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "A valid passport is required."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "value",
+                    "chinese": "價值",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The value of the dollar dropped."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "valuable",
+                    "chinese": "貴重的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Your time is valuable."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "variety",
+                    "chinese": "多樣化",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "We offer a variety of services."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "various",
+                    "chinese": "各種的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "There are various options."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "vast",
+                    "chinese": "廣大的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "A vast majority agreed."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "vehicle",
+                    "chinese": "車輛",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Company vehicles are insured."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "venture",
+                    "chinese": "冒險；企業",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "It is a risky venture."
+                },
+                {
+                    "category": "🏢 商業與管理 (Business & Management)",
+                    "english": "version",
+                    "chinese": "版本",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Download the latest version."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "victim",
+                    "chinese": "受害者",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The victim of the fraud."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "view",
+                    "chinese": "觀點；景色",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "What is your view on this?"
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "village",
+                    "chinese": "村莊",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He grew up in a village."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "violence",
+                    "chinese": "暴力",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Violence is not the answer."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "violent",
+                    "chinese": "暴力的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "He has a violent temper."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "virtual",
+                    "chinese": "虛擬的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Virtual meetings are common."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "virus",
+                    "chinese": "病毒",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The virus spread quickly."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "visible",
+                    "chinese": "可見的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The stars are visible."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "vision",
+                    "chinese": "願景；視力",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The CEO has a clear vision."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "visit",
+                    "chinese": "拜訪",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Visit our website."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "visual",
+                    "chinese": "視覺的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Visual aids help learning."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "vital",
+                    "chinese": "重要的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It is vital to success."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "voice",
+                    "chinese": "聲音",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Lower your voice."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "volume",
+                    "chinese": "音量；體積",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Turn up the volume."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "volunteer",
+                    "chinese": "志願者",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "She is a volunteer."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "vote",
+                    "chinese": "投票",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Vote for the best candidate."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "wage",
+                    "chinese": "工資",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Minimum wage increased."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wait",
+                    "chinese": "等待",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Please wait here."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "waste",
+                    "chinese": "浪費",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Don't waste time."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "wealth",
+                    "chinese": "財富",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He accumulated great wealth."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "wealthy",
+                    "chinese": "富有的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "They are a wealthy family."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "weapon",
+                    "chinese": "武器",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "No weapons allowed."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wear",
+                    "chinese": "穿著",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Wear safety gear."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "weather",
+                    "chinese": "天氣",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The weather is bad."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "weekly",
+                    "chinese": "每週的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "We have a weekly meeting."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "weigh",
+                    "chinese": "稱重",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Weigh the package."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "weight",
+                    "chinese": "重量",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The weight limit is 20kg."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "welcome",
+                    "chinese": "歡迎",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Welcome aboard."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "welfare",
+                    "chinese": "福利",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Employee welfare is important."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "western",
+                    "chinese": "西方的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Western culture is popular."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "wheel",
+                    "chinese": "輪子",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The car has four wheels."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "whole",
+                    "chinese": "整個的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The whole team was there."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wide",
+                    "chinese": "寬的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "We have a wide selection."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "widely",
+                    "chinese": "廣泛地",
+                    "partOfSpeech": "adv. 副詞",
+                    "example": "It is widely known."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "willing",
+                    "chinese": "願意的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Are you willing to travel?"
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "win",
+                    "chinese": "贏",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "We play to win."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wind",
+                    "chinese": "風",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The wind is strong."
+                },
+                {
+                    "category": "✈️ 差旅與交通 (Travel & Transport)",
+                    "english": "wing",
+                    "chinese": "翅膀；側廳",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The east wing of the building."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "winner",
+                    "chinese": "贏家",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The winner receives a prize."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wire",
+                    "chinese": "電線；匯款",
+                    "partOfSpeech": "n. 名詞 / v. 動詞",
+                    "example": "Please wire the money."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wireless",
+                    "chinese": "無線的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "Wireless connection available."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wise",
+                    "chinese": "明智的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It was a wise choice."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wish",
+                    "chinese": "希望",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "I wish you success."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "witness",
+                    "chinese": "目擊者",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He was a witness."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wonder",
+                    "chinese": "想知道",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "I wonder why."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wonderful",
+                    "chinese": "極好的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It was a wonderful experience."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wood",
+                    "chinese": "木頭",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The desk is made of wood."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wooden",
+                    "chinese": "木製的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "A wooden box."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "word",
+                    "chinese": "字；承諾",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He kept his word."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "work",
+                    "chinese": "工作",
+                    "partOfSpeech": "v. 動詞 / n. 名詞",
+                    "example": "I work at a bank."
+                },
+                {
+                    "category": "🤝 人事與職業 (HR & Career)",
+                    "english": "worker",
+                    "chinese": "工人",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Factory workers are striking."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "world",
+                    "chinese": "世界",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "Around the world."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "worried",
+                    "chinese": "擔心的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "I am worried about the deadline."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "worry",
+                    "chinese": "擔心",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Don't worry."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "worse",
+                    "chinese": "更糟的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "The situation got worse."
+                },
+                {
+                    "category": "💰 金融與預算 (Finance & Budget)",
+                    "english": "worth",
+                    "chinese": "值得的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "It is worth the price."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wound",
+                    "chinese": "傷口",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "The wound healed."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wrap",
+                    "chinese": "包裹",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Wrap the gift."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "write",
+                    "chinese": "寫",
+                    "partOfSpeech": "v. 動詞",
+                    "example": "Write a report."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "writer",
+                    "chinese": "作家",
+                    "partOfSpeech": "n. 名詞",
+                    "example": "He is a famous writer."
+                },
+                {
+                    "category": "🏠 一般與生活 (General & Life)",
+                    "english": "wrong",
+                    "chinese": "錯誤的",
+                    "partOfSpeech": "adj. 形容詞",
+                    "example": "That is the wrong answer."
+                }
+            
+]
